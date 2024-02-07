@@ -18,4 +18,4 @@ I'm a frontend developer, optimist and digital architect.
  
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mitkoiliev/).
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mitko-iliev/).
